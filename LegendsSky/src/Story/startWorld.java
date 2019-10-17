@@ -17,7 +17,11 @@ import java.util.TimerTask;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-
+/**
+ * 测试git的使用，更新代码
+ * @author 杨大龙
+ *
+ */
 public class startWorld extends JPanel implements KeyListener {
 	public static final int WIDTH = 600;
 	public static final int HEIGHT = 900;
